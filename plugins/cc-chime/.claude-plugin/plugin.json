@@ -1,6 +1,7 @@
 {
   "name": "cc-chime",
   "description": "Plays an audio notification at the end of every Claude turn and when Claude needs your input",
+  "version": "1.0.0",
   "author": {
     "name": "Michael van Laar"
   },
