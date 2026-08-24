@@ -14,6 +14,7 @@ Claude Code plugin that plays an audio notification at the end of every Claude t
 | `.githooks/pre-commit`                        | Secret scanning (gitleaks) + CLAUDE.md table sync                  |
 | `.github/workflows/claude-code-review.yml`    | Automatic PR review via Claude Code                                |
 | `.github/workflows/claude.yml`                | Trigger Claude via @claude mentions in issues/PRs                  |
+| `.github/workflows/release.yml`               | TODO: add description                                              |
 | `.gitignore`                                  | Git ignore patterns                                                |
 | `plugins/cc-chime/.claude-plugin/plugin.json` | Plugin manifest                                                    |
 | `scripts/sync-config-table.sh`                | Keeps Key Config Files table in sync on each commit                |
